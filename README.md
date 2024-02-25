@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ceneszzz
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning coding for blockchain and layerzero
+- 🌱 I’m currently learning coding for blockchain
 - 💞️ I’m looking to collaborate on crypto / blockchain project  
 - 📫 you can reach me on email : yogissaputra@hotmail.com
 - thx!
