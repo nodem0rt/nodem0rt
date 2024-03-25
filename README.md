@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ceneszzz
+- 👋 Hi, I’m @ceneszzz / m0rt
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning coding for blockchain
 - 💞️ I’m looking to collaborate on crypto / blockchain project  
