@@ -2,8 +2,8 @@
 - 👀 I’m interested in blockchain
 - 🌱 I’m currently learning coding for blockchain
 - 💞️ I’m looking to collaborate on crypto / blockchain project  
-- 📫 you can reach me on email : yogissaputra@hotmail.com
-- thx!
+- 📫 you can reach me on email emperor@nodem0rt.xyz | nodem0rt@gmail.com
+- cheers 🍻
 
 <!---
 ceneszzz/ceneszzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
