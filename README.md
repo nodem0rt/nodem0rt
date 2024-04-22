@@ -1,7 +1,6 @@
 - 👋 Hi, I’m nodem0rt
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning coding for blockchain
-- 💞️ I’m looking to collaborate on crypto / blockchain project  
+- 👀 interested in blockchain and currently as node runner 🤙
+- 💞️ I’m free to collaborate on crypto / blockchain project  
 - 📫 you can reach me on email emperor@nodem0rt.xyz | nodem0rt@gmail.com
 - cheers 🍻
 
